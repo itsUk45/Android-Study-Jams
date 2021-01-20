@@ -1,2 +1,3 @@
-# Android-Study-Jams
-Android Study Jams
+# Android Study Jams- GDG Juba
+## Day one
+### Build happy birthday app
